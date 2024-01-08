@@ -1,0 +1,131 @@
+
+
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.tabs.is-centered {
+    margin-top: 20px;
+}
+
+.PS4 {
+    text-align: center;
+    padding: 20px;
+}
+
+.PS4 h1 {
+    font-size: 36px;
+    color: #000274;
+}
+
+.PS4 p {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.PS4 ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.PS4 ul li {
+    margin-bottom: 8px;
+}
+
+.PS4 img {
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.info-adicional{
+
+    margin-top: 20px;
+}
+
+.catalogo-juegos {
+    margin-top: 20px;
+
+}
+
+.catalogo-juegos table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+
+.catalogo-juegos th{
+
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: left;
+    background-color: #000274;
+
+    color: white;
+
+}
+
+h2{
+color: #000274;
+
+}
+
+.catalogo-juegos td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: left;
+    color: red;
+}
+
+
+.catalogo-juegos img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.redes-sociales {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.redes-sociales h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.redes-sociales ul {
+    padding: 0;
+    margin: 0;
+}
+
+.redes-sociales ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.redes-sociales ul li a {
+    color: #333;
+}
+
+.redes-sociales ul li a i {
+    font-size: 24px;
+    margin-right: 5px;
+}
+
+.copyright {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+}
